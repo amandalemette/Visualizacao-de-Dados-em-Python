@@ -15,3 +15,10 @@ https://www.instagram.com/prof_amandalemette/
 Acesso ao vídeo da aula: https://youtu.be/wg_xsuMffns
 
 - <h2 id="aula03"><a href="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/tree/main/Aula03">Material da Aula 3</a></h2>
+
+## Aula 14: 
+
+Acesso ao vídeo da aula: https://youtu.be/nwBNHTFieHk
+
+- <h2 id="aula14"><a href="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/tree/main/Aula14">Material da Aula 14</a></h2>
+
