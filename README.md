@@ -16,7 +16,7 @@ Acesso ao vídeo da aula: https://youtu.be/wg_xsuMffns
 
 - <h2 id="aula03"><a href="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/tree/main/Aula03">Material da Aula 3</a></h2>
 
-## Aula 14: 
+## Aula 14: Como fazer um gráfico com 3 eixos em Python? 
 
 Acesso ao vídeo da aula: https://youtu.be/nwBNHTFieHk
 
