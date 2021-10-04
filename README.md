@@ -22,3 +22,10 @@ Acesso ao vídeo da aula: https://youtu.be/nwBNHTFieHk
 
 - <h2 id="aula14"><a href="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/tree/main/Aula14">Material da Aula 14</a></h2>
 
+## Aula 15: Como fazer um gráfico de dispersão e de barras com legenda e dois eixos em Python?
+
+Acesso ao vídeo da aula: 
+
+- <h2 id="aula15"><a href="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/tree/main/Aula15">Material da Aula 15</a></h2>
+
+
