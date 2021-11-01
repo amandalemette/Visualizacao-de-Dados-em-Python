@@ -30,7 +30,9 @@ Acesso ao vídeo da aula: https://youtu.be/ta5Uxmo0arU
 
 - <h2 id="aula15"><a href="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/tree/main/Aula15">Material da Aula 15</a></h2>
 
-<img src="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/blob/7c83b4d06b89c1452475d6f08c432a224e156673/Images/section_divider1.png?raw=true"/>
+<p align="center">
+<img src="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/blob/298a631c27f66a487eafd5a274552b2adf7a9c17/Images/section_divider3.png?raw=true"/>
+</p>
 
 # Data Visualization with Python 
 
