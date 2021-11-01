@@ -8,6 +8,8 @@ https://youtube.com/playlist?list=PL25cWjt4YLO1VPal94CnNF4Iaa2sMnu0d
 
 https://www.instagram.com/prof_amandalemette/
 
+[Linkedin](https://www.linkedin.com/in/amanda-lemette-brand%C3%A3o-83280918b)
+
 # Aulas
 
 ## Aula 3: Como adicionar um eixo secundário no gráfico do Matplotlib?
@@ -39,6 +41,8 @@ https://youtube.com/playlist?list=PL25cWjt4YLO1VPal94CnNF4Iaa2sMnu0d
 # For more information, please access:  
 
 https://www.instagram.com/prof_amandalemette/
+
+[Linkedin](https://www.linkedin.com/in/amanda-lemette-brand%C3%A3o-83280918b)
 
 # Classes
 
