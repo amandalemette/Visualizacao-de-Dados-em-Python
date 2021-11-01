@@ -28,6 +28,8 @@ Acesso ao vídeo da aula: https://youtu.be/ta5Uxmo0arU
 
 - <h2 id="aula15"><a href="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/tree/main/Aula15">Material da Aula 15</a></h2>
 
+<img src="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/blob/7c83b4d06b89c1452475d6f08c432a224e156673/Images/section_divider1.png?raw=true"/>
+
 # Data Visualization with Python 
 
 The current repository has Python codes that I developed during the course Data Visualization with Python available at my YouTube channel:
