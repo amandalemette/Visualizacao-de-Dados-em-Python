@@ -1,4 +1,4 @@
-# Visualização-de-Dados-em-Python 
+# Visualização de Dados em Python 
 
 Esse repositório contém os códigos que desenvolvi durante o curso Visualização de Dados em Python oferecido no meu canal no YouTube:
 
@@ -46,19 +46,19 @@ https://www.instagram.com/prof_amandalemette/
 
 Access to class video: https://youtu.be/wg_xsuMffns
 
-- <h2 id="aula03"><a href="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/tree/main/Aula03">Material da Aula 3</a></h2>
+- <h2 id="aula03"><a href="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/tree/main/Aula03">Lesson 3 material</a></h2>
 
 ## Class 14: How to build a 3 axis chart in Python?
 
 Access to class video: https://youtu.be/nwBNHTFieHk
 
-- <h2 id="aula14"><a href="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/tree/main/Aula14">Material da Aula 14</a></h2>
+- <h2 id="aula14"><a href="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/tree/main/Aula14">Lesson 14 material</a></h2>
 
 ## Class 15: How to build a scatter and bar chart with legend and two axes in Python?
 
 Access to class video: https://youtu.be/ta5Uxmo0arU
 
-- <h2 id="aula15"><a href="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/tree/main/Aula15">Material da Aula 15</a></h2>
+- <h2 id="aula15"><a href="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/tree/main/Aula15">Lesson 15 material</a></h2>
 
 
 
