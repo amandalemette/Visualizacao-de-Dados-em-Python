@@ -2,7 +2,7 @@
 
 Esse repositório contém os códigos que desenvolvi durante o curso Visualização de Dados em Python oferecido no meu canal no YouTube:
 
-https://youtube.com/playlist?list=PL25cWjt4YLO1VPal94CnNF4Iaa2sMnu0d
+[Visualização de Dados em Python](https://youtube.com/playlist?list=PL25cWjt4YLO1VPal94CnNF4Iaa2sMnu0d)
 
 # Para mais informações, acessar: 
 
@@ -36,7 +36,7 @@ Acesso ao vídeo da aula: https://youtu.be/ta5Uxmo0arU
 
 The current repository has Python codes that I developed during the course Data Visualization with Python available at my YouTube channel:
 
-https://youtube.com/playlist?list=PL25cWjt4YLO1VPal94CnNF4Iaa2sMnu0d
+[Data Visualization with Python ](https://youtube.com/playlist?list=PL25cWjt4YLO1VPal94CnNF4Iaa2sMnu0d)
 
 # For more information, please access:  
 
